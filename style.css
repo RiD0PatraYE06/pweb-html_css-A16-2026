@@ -1,3 +1,8 @@
-body{
-    
+/* 
+.class (kalau berdasarkan nama class nya )
+#id (kalau berdasarkan id nya )
+h1 ( kalau berdasarkan tag htmlnya)
+*/
+.cek{
+    color: aliceblue;
 }
