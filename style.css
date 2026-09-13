@@ -96,15 +96,15 @@ ul {
   gap: 30px;
 }
 
-.nav-link {
+.navLink {
   color: #cbd5e1;
   font-size: 0.95rem;
   font-weight: 500;
   transition: color 0.3s ease;
 }
 
-.nav-link:hover,
-.nav-link.active {
+.navLink:hover,
+.navLink.active {
   color: #ff0000;
 }
 
@@ -291,13 +291,13 @@ footer {
   .quoteBlock {
     display: none !important;
   }
-  .nav-menu {
-    gap: 8px;
+  .navMenu {
+    gap: 2px;
   }
-  .nav-link {
+  .navLink {
     font-size: 0.7rem;
   }
-  .brand-logo .logo-text {
+  .brandLogo .logoText {
     font-size: 0.9rem;
   }
 }
