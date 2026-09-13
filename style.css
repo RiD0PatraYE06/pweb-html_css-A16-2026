@@ -10,7 +10,7 @@ body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #f1f5f9;
   line-height: 1.6;
-  background-color: #05131d; /* Midnight Dark */
+  background-color: #05131d; 
 }
 
 .container {
@@ -278,7 +278,7 @@ ul {
 
 /* ==================== FOOTER ==================== */
 footer {
-  background-color: #000000;
+  background-color: #050505;
   padding: 25px 0;
   text-align: center;
   color: #64748b;
