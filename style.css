@@ -144,7 +144,7 @@ ul {
   align-items: flex-end;
   width: 100%;
   min-height: 100vh;
-  padding: 0 0 80px; /* tambah padding-bottom biar jabatan-box gak mepet banget ke bawah */
+  padding: 0 0 80px; 
 }
 
 .homeContent h1 {
